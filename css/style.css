@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	width: 1080px;
+	height: 550px;
+	background-image: url(https://img.pikbest.com/back_our/bg/20200529/bg/81117d69933d1_337576.png!w700wp);
+	margin: 20px auto;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#calculator
